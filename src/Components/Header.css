@@ -1,0 +1,9 @@
+.navbar{
+    background-color: #222021;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    color: #D98B8B;
+    font-weight: bold;
+}
+.nav-link{
+    text-decoration: none;
+}
